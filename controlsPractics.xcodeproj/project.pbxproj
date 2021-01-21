@@ -13,7 +13,6 @@
 		013C789825B960C300F33A55 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 013C789625B960C300F33A55 /* Main.storyboard */; };
 		013C789A25B960C400F33A55 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 013C789925B960C400F33A55 /* Assets.xcassets */; };
 		013C789D25B960C400F33A55 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 013C789B25B960C400F33A55 /* LaunchScreen.storyboard */; };
-		015CB68A25B9D06C00DFC155 /* Screenshots in Resources */ = {isa = PBXBuildFile; fileRef = 015CB68925B9D06C00DFC155 /* Screenshots */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +24,6 @@
 		013C789925B960C400F33A55 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		013C789C25B960C400F33A55 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		013C789E25B960C400F33A55 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		015CB68925B9D06C00DFC155 /* Screenshots */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Screenshots; path = ../../Screenshots; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,7 +62,6 @@
 				013C789625B960C300F33A55 /* Main.storyboard */,
 				013C789925B960C400F33A55 /* Assets.xcassets */,
 				013C789B25B960C400F33A55 /* LaunchScreen.storyboard */,
-				015CB68925B9D06C00DFC155 /* Screenshots */,
 				013C789E25B960C400F33A55 /* Info.plist */,
 			);
 			path = controlsPractics;
@@ -127,7 +124,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				015CB68A25B9D06C00DFC155 /* Screenshots in Resources */,
 				013C789D25B960C400F33A55 /* LaunchScreen.storyboard in Resources */,
 				013C789A25B960C400F33A55 /* Assets.xcassets in Resources */,
 				013C789825B960C300F33A55 /* Main.storyboard in Resources */,
