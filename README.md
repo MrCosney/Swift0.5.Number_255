@@ -1,14 +1,16 @@
 # Number_255
-Value Illustratior
 
-# The Torch
-
-Simple application for manage the screen Color and device Flashlight
+Simple application for illustration the range of value 0-255 w/ diffrent Interface Elements.
 
 ### Functional 
 
-- Change Backgrond Color(Red-Yellow-Green)
-- Turn On/Off the torch on the device
+- Increase the Value by 1 via Button 
+- Increase/Decrease the Value via Slider 
+- Increase/Decrease the Value via Switchers ( Also it Illustrates the Value in Binary Form)
+- Increase/Decrease the Value via Taps ( Left side of the screen -1, Right side of the screen +1)
+- Insert the arbitraty Value (0-255)
+
+
 
 ### Screenshots
 
