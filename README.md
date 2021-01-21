@@ -1,4 +1,4 @@
-# Number_255
+# Number 255
 
 Simple application for illustration the range of value 0-255 w/ diffrent Interface Elements.
 
